@@ -1,2 +1,0 @@
-# LabP
-LabProject
